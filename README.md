@@ -1,5 +1,7 @@
 #  Ticket Management App (React Version)
 
+*Live Link:* [ticket-management-v-react.netlify.app] 
+
 This is the *React implementation* of the Ticket Management Web App — a multi-framework project showcasing consistent UI, authentication, and ticket CRUD functionality across React, Vue, and Twig.
 
 ---
